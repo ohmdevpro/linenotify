@@ -33,7 +33,7 @@ fetch(url)
       Time: ${date}
     `;
 
-    const token = 'Y546ghu6YR64iyC6dRG8NpfKfiuvo1HrJwoMnOaghjC';
+    const token = 'v8bEWmo9x2aovUVBRYIBhXUq8EfruY5UDERPRQ1WV8L';
     notifyMessage(message, token);
   })
   .catch(error => console.log(error));
